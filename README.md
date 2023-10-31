@@ -31,7 +31,7 @@ python manage.py runserver
 
 6. 앱생성
 ```
-django-admin statapp <appname>
+django-admin startapp <appname>
 ```
 
 7. 앱등록
