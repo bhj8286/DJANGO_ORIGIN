@@ -58,4 +58,4 @@ def index(request):
 10. templates 폴더 생성 => index.html 생성 
 
 ## MTV
-![MTV](./assets/MTV.PNG)
+![MTV](./img/MTV.png)
